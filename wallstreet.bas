@@ -1,4 +1,5 @@
 Attribute VB_Name = "Module1"
+
 Sub stickers()
 
 ' Creating new variables
@@ -122,3 +123,5 @@ Cells(3, 17).Value = greatest_percent_decrease
 Cells(4, 17).Value = greatest_total_volume
 
 End Sub
+
+'THIS IS THE FINAL SOLUTION
